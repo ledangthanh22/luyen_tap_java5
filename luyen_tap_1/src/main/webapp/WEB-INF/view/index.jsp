@@ -31,9 +31,6 @@
                         </c:forEach>
                     </select>
                 </div>
-                <div class="col-4">
-                    ${}
-                </div>
             </div>
             <div class="row mb-5">
                 <div class="col-6">
